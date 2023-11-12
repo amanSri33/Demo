@@ -1,5 +1,5 @@
 # Demo
 for learning
 <br>
-Author Aman Srivastava
+Author Aman Srivastava (gone)
 
